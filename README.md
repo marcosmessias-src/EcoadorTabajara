@@ -1,7 +1,8 @@
 ﻿# EcoadorTabajara
 
 # Atividade avaliativa de Fundamentos de Redes de Computadores
-Professor: Daniel Fireman\n
+Professor: Daniel Fireman
+
 Aluno: Marcos Messias
 
 
