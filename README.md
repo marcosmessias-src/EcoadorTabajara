@@ -5,7 +5,7 @@ Professor: Daniel Fireman
 Aluno: Marcos Messias
 
 
-# Leiam com calma o texto abaixo. Estarei a disposição via sala de aula virtual e e-mail para esclarecer quaisquer dúvidas.
+Leiam com calma o texto abaixo. Estarei a disposição via sala de aula virtual e e-mail para esclarecer quaisquer dúvidas.
 
 # Descrição
 
